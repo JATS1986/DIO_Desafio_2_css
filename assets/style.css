@@ -1,0 +1,139 @@
+.head {
+    display: flex;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    align-items: center;
+}
+
+.item1 {
+    margin: 0 10px 0 15px;
+}
+
+.item2 {
+    margin: 0 15px 0 15px;
+}
+
+.item3 {
+    margin: 0 0px 0 320px;
+}
+
+.item4 { /*retangulo menor*/
+    margin: 0 0px 0 0px;
+}
+
+.item5 { /*procurar*/
+    margin: 0 10px 0 -42px;
+}
+
+.item6 {
+    margin: 0 10px 0 300px;
+}
+
+.item7 {
+    margin: 0 10px 0 10px;
+}
+
+.item8 {
+    margin: 0 15px 0 10px;
+}
+
+.item1, .item5, .item6, .item7 {
+    width: 24px;
+    height: 24px;
+}
+
+.thumb {
+    display: flex;
+    flex-direction: row;
+}
+
+.thumb1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.q-esquerd {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 45px;
+}
+
+.q-dio {
+    width: 42px;
+    height: 42px;
+    margin: 0 10px 0 0;
+}
+
+.q-dio-t1, .q-dio-t2 {
+    margin: 0 50px 0 0;
+}
+
+.q-inscr {
+    width: 159px;
+    height: 40px;
+    margin: 0 40px 0 0;
+}
+
+.qeimg {
+    width: 24px;
+    height: 24px;
+    margin: 0 10px 0 0;
+}
+
+.qelike {
+    margin: 0 40px 0 0;
+}
+
+.qenlike {
+    margin: 0 40px 0 0;
+}
+
+.qeshare {
+    margin: 0 40px 0 0;
+}
+
+.thumb2 {
+    margin: 0 10px 0 0;
+}
+
+.watchin {
+    width: 952px;
+    height: 537px;
+}
+
+.part {
+    display: flex;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+.part1 {
+    flex-direction: row;
+    width: 180px;
+}
+
+.prt1, .prt2 {
+    margin: 0px 0px 3px 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.thumbh {
+    margin-bottom: 0;
+}
+
+.thumbp {
+    width: 510px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+p {
+    font-size: 12px;
+}
